@@ -49,3 +49,7 @@ After a moment, the Cypress Test Runner will launch.
 6. Press the file name and the test will run accordingly.
 
 ![s](https://user-images.githubusercontent.com/68599772/137433521-d59aaffb-0819-4a6c-8836-df039da7eeda.PNG)
+
+### Test cases
+
+Please direct to the link https://docs.google.com/spreadsheets/d/13aEQAj5yUF1RBWe-HNzGbEROKGhGhhE0v9t5XbSgG4M/edit?usp=sharing
